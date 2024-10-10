@@ -1,9 +1,9 @@
 # Assignment bundle E
 
-Welcome to my GitHub Pages website :)
+## Welcome to my GitHub Pages website :)
 
-## Features
+### Features
 Some markdown features:
-- **Bold text**: `**bold**`
-- **Italic text**: `*italic*`
-
+- **Bold text**: **bold**
+- **Italic text**: *italic*
+- **Striketrough**: ~~This text is wrong~~
