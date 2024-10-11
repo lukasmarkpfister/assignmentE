@@ -8,6 +8,6 @@ Some markdown features:
 - **Italic text**: *italic*
 - **Striketrough**: ~~This text is wrong~~
 - **Some code**:
-```python
+```
 print("Hello, World!")
 ```
