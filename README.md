@@ -7,3 +7,6 @@ Some markdown features:
 - **Bold text**: **bold**
 - **Italic text**: *italic*
 - **Striketrough**: ~~This text is wrong~~
+- **Some code**: ```python
+print("Hello, World!")
+```
